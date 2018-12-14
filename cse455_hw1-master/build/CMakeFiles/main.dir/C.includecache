@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/auser/Desktop/cse455_hw1-master/src/args.h
+
+/home/auser/Desktop/cse455_hw1-master/src/image.h
+
+/home/auser/Desktop/cse455_hw1-master/src/main.c
+math.h
+-
+string.h
+-
+image.h
+/home/auser/Desktop/cse455_hw1-master/src/image.h
+test.h
+/home/auser/Desktop/cse455_hw1-master/src/test.h
+args.h
+/home/auser/Desktop/cse455_hw1-master/src/args.h
+
+/home/auser/Desktop/cse455_hw1-master/src/test.c
+stdlib.h
+-
+math.h
+-
+string.h
+-
+assert.h
+-
+image.h
+/home/auser/Desktop/cse455_hw1-master/src/image.h
+test.h
+/home/auser/Desktop/cse455_hw1-master/src/test.h
+args.h
+/home/auser/Desktop/cse455_hw1-master/src/args.h
+
+/home/auser/Desktop/cse455_hw1-master/src/test.h
+stdio.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC -fdiagnostics-color=always -std=c11   -pthread -O2 -g -march=native -fPIC  -shared -Wl,-soname,libuwimg.so -o libuwimg.so CMakeFiles/uwimg.dir/src/args.c.o CMakeFiles/uwimg.dir/src/load_image.c.o CMakeFiles/uwimg.dir/src/resize_image.c.o CMakeFiles/uwimg.dir/src/filter_image.c.o CMakeFiles/uwimg.dir/src/process_image.c.o 

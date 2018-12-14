@@ -1,0 +1,4 @@
+/home/auser/Desktop/cse455_hw1-master/build/CMakeFiles/rebuild_cache.dir
+/home/auser/Desktop/cse455_hw1-master/build/CMakeFiles/edit_cache.dir
+/home/auser/Desktop/cse455_hw1-master/build/CMakeFiles/main.dir
+/home/auser/Desktop/cse455_hw1-master/build/CMakeFiles/uwimg.dir

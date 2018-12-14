@@ -1,0 +1,1 @@
+/usr/bin/gcc -fdiagnostics-color=always -std=c11   -pthread -O2 -g -march=native -fPIC  -rdynamic CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/test.c.o  -o main -Wl,-rpath,/home/auser/Desktop/cse455_hw1-master/build libuwimg.so -lm 
